@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** utils.c
-** File description:
-** desc
-*/
-
 #include "../include/my.h"
 
 void my_putchar(char c)

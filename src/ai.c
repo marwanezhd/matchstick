@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** ai.c
-** File description:
-** desc
-*/
-
 #include "../include/my.h"
 
 char **ia_turn(int x_max, char **tab, int x, int max_stick, int stick)

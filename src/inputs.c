@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** inputs.c
-** File description:
-** desc
-*/
-
 #include "../include/my.h"
 
 int check_imput(char *buffer)

@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** lines.c
-** File description:
-** desc
-*/
-
 #include "../include/my.h"
 
 int count_stick(char *buffer, int stick, int max_stick)

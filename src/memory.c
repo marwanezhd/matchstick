@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** memory.c
-** File description:
-** desc
-*/
-
 #include "../include/my.h"
 
 char **init_tab(int size)

@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** annexes.c
-** File description:
-** desc
-*/
-
 #include "../include/my.h"
 
 char *set_stick(char *buffer, char c, int count, int i)

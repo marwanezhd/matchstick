@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** fill_tab.c
-** File description:
-** desc
-*/
-
 #include "../include/my.h"
 
 char **fill_tab(char **tab, int size)

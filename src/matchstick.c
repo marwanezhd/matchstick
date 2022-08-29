@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** matchstick.c
-** File description:
-** desc
-*/
-
 #include "../include/my.h"
 
 int matchstick(char **tab, int line, int max_stick, int line_tab)

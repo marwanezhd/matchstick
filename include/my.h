@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** my.h
-** File description:
-** desc
-*/
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>

@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** game.c
-** File description:
-** desc
-*/
-
 #include "../include/my.h"
 
 int check_line(int x_max, int x, char *buffer, int stick, int max_stick)
